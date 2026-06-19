@@ -9,7 +9,7 @@
 ![Responsive](https://img.shields.io/badge/Responsive-Design-green?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
 
-# ✨ Stylish Calculator Web App
+# ✨  Calculator Web App
 
 A modern and responsive calculator built using **HTML, CSS, and JavaScript**.  
 It performs basic arithmetic operations with a beautiful dark theme and colorful buttons for an attractive user experience.
@@ -161,14 +161,3 @@ If you found this project useful, give it a ⭐ on GitHub and share it with othe
 ### ⭐ Don't forget to star the repository!
 
 </div>
-````
-
-### 📌 Add these images to make the README more attractive:
-
-```markdown
-<p align="center">
-  <img src="./preview.png" width="350">
-</p>
-```
-
-You can save one of your calculator screenshots as **`preview.png`** in the project folder so that the image appears automatically inside the README.
