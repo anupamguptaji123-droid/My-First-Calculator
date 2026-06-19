@@ -22,7 +22,8 @@ It performs basic arithmetic operations with a beautiful dark theme and colorful
 ### 🖥 Desktop View
 
 <p align="center">
-<img src="./preview.png" width="400">
+<img width="535" height="686" alt="Screenshot 2026-06-19 202916" src="https://github.com/user-attachments/assets/5da7555d-edf0-4bb8-b1db-7b621fb32761" />
+
 </p>
 
 
