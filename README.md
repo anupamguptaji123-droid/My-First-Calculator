@@ -61,7 +61,70 @@ Calculator/
 ├── README.md
 └── preview.png
 ```
+# ⚙️ How This Calculator Works
 
+The calculator performs mathematical operations by taking input from the buttons and processing them using JavaScript.
+
+### 📝 Input Process
+- When a number or operator button is clicked, its value is displayed on the screen.
+- Users can enter multiple numbers and operators to create an expression.
+
+### ➕ Arithmetic Operations
+The calculator supports:
+
+| Operation | Example |
+|------------|---------|
+| Addition | 10 + 5 = 15 |
+| Subtraction | 10 - 5 = 5 |
+| Multiplication | 10 × 5 = 50 |
+| Division | 10 ÷ 5 = 2 |
+| Percentage | 50 % = 0.5 |
+| Decimal Values | 5.5 + 2.3 = 7.8 |
+
+### 🧹 Clear Button (C)
+- Removes the entire expression from the display.
+- Resets the calculator for a new calculation.
+
+### ⌫ Delete Button (Del)
+- Deletes the last entered digit or operator.
+- Helps users correct mistakes without clearing everything.
+
+### 🟢 Equal Button (=)
+- Evaluates the entered expression.
+- Displays the final result instantly.
+
+### 🔄 Working Flow
+
+```text
+User Input
+     ↓
+Display Screen
+     ↓
+JavaScript Processes Expression
+     ↓
+Performs Calculation
+     ↓
+Shows Result
+```
+
+
+## 🧠 Behind the Scenes
+
+1. User clicks a button.
+2. JavaScript captures the button value.
+3. The value is appended to the display.
+4. When `=` is pressed, the expression is evaluated.
+5. The calculated answer is shown on the screen.
+6. `C` clears everything, while `Del` removes the last character.
+
+### Example
+
+```text
+Input: 25 + 23
+        ↓
+Press "="
+        ↓
+Output: 48
 
 # ⚙️ How to Run
 
