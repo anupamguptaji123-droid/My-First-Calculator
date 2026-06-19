@@ -125,6 +125,7 @@ Input: 25 + 23
 Press "="
         ↓
 Output: 48
+```
 
 # ⚙️ How to Run
 
