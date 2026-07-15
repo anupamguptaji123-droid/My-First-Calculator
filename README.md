@@ -1,7 +1,7 @@
 
-# 🧮  Calculator
-
 <div align="center">
+# ✨  Calculator Web App
+
 
 ![HTML](https://img.shields.io/badge/HTML-5-orange?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-3-blue?style=for-the-badge&logo=css3)
@@ -9,7 +9,6 @@
 ![Responsive](https://img.shields.io/badge/Responsive-Design-green?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
 
-# ✨  Calculator Web App
 
 A modern and responsive calculator built using **HTML, CSS, and JavaScript**.  
 It performs basic arithmetic operations with a beautiful dark theme and colorful buttons for an attractive user experience.
