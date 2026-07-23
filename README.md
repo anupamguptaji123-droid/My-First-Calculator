@@ -15,8 +15,6 @@ It performs basic arithmetic operations with a beautiful dark theme and colorful
 </div>
 
 
-## 📸 Preview
-If you want to view my calculator then view through this link 👉 https://anupamguptaji123-droid.github.io/My-First-Calculator/
 
 ### 🖥 Desktop View
 
